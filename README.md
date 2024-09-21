@@ -1,5 +1,5 @@
 # stepik_auto_tests_course
 Assignment for the course of autotests in Python
 
-Тут хранятся все мои начинания в области программирования,
-я хочу вести человечество в будущее, но сейчас я начинаю с самых низов
+This is where all my programming endeavors are stored,
+I want to lead humanity into the future, but for now I'm starting from the bottom.
