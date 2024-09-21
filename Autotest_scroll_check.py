@@ -4,7 +4,6 @@ from selenium.webdriver.support.ui import Select
 import time
 import math
 
-
 def calc(x):
     return str(math.log(abs(12 * math.sin(int(x)))))
 
@@ -28,12 +27,6 @@ try:
     option2.click()
     button = browser.find_element(By.CSS_SELECTOR, "button.btn")
     button.click()
-
-
-
-
-
-
 
 finally:
     time.sleep(10)
